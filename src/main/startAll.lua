@@ -1,3 +1,4 @@
+-- ~100 Hours@60fps
 console.clear()
 package.path = "./main/?.lua;"
 print("Starting Pokemon Fire Red inputs.")
